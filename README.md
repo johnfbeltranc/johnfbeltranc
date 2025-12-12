@@ -1,16 +1,117 @@
-## Hi there 👋
+template: "online-cv"
+skin: "blue"
 
-<!--
-**johnfbeltranc/johnfbeltranc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+basic_info:
+  first_name: "John Fredy"
+  last_name: "Beltran Cuellar"
+  motto: "Dedicado en lo que hago"
+  focus: "Superarme cada día"
+  summary: |
+    Científico de Datos en formación con experiencia previa resolviendo problemas
+    reales y trabajando bajo presión. Combino pensamiento analítico,
+    habilidades técnicas y enfoque práctico para aportar soluciones basadas en datos
+    y generar valor en cualquier equipo.
+  avatar: "https://avatars.githubusercontent.com/u/215084065?v=4"
+  email: "beltranjhon463@gmail.com"
+  phone: "+573212418910"
+  linkedin: "in/jhon-beltran-006ab3397/"
+  github: "johnfbeltranc"
 
-Here are some ideas to get you started:
+  languages:
+    - idiom: "English"
+      level: "Básico"
+    - idiom: "Spanish"
+      level: "Nativo"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests:
+    - item: "Aprendizaje autodidacta en tecnología y ciencia de datos"
+    - item: "Jugar fútbol y participar en deportes de equipo"
+    - item: "Entrenamiento en el gimnasio y bienestar físico"
+    - item: "Practicar baile y actividades rítmicas"
+
+education:
+  - degree: "Científico de Datos"
+    university: "4Geeks Academy"
+    university_logo: "https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg"
+    time: "2025 - 2025"
+    details: |
+      Experiencia aplicando el ciclo completo de proyectos de data science: limpieza y preparación de datos con Python,
+      análisis exploratorio con Pandas y visualización con Matplotlib. Construcción de modelos de Machine Learning
+      con scikit-learn utilizando pipelines, validación y optimización. Desarrollo de proyectos reales de clasificación,
+      NLP y análisis predictivo, reforzando bases matemáticas como álgebra lineal y estadística.
+
+      - Aplicación del ciclo completo de Data Science
+      - Construcción de modelos predictivos con ML
+
+  - degree: "Análisis de Datos"
+    university: "Google / Coursera"
+    university_logo: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Google_Analytics_logo.png"
+    time: "2025 - 2025"
+    details: |
+      Completé el certificado profesional de Google en Análisis de Datos, donde aprendí el ciclo completo
+      del análisis basado en datos. Desarrollé habilidades en:
+
+      - Recolección, limpieza y preparación de datos usando hojas de cálculo y SQL.
+      - Análisis exploratorio para identificar patrones, tendencias y métricas clave.
+      - Visualización de datos mediante Tableau y principios de data storytelling.
+      - Toma de decisiones basada en datos, formulación de preguntas analíticas y comunicación de insights.
+      - Programación en R para manipulación, transformación y visualización de datos.
+      - Desarrollo de un proyecto final aplicando principios de análisis en un dataset real.
+
+experiences:
+  - role: "Especialista Técnico en Operaciones y Optimización de Procesos"
+    time: "2024 - Present"
+    company: "Navitat Canopy Adventures"
+    company_logo: "https://www.navitat.com/wp-content/uploads/2018/03/navitat-logo.png"
+    details: |
+      • Analicé y optimicé procesos operativos complejos, identificando patrones de fallos y proponiendo
+        mejoras basadas en datos que redujeron tiempos de inactividad en un 20%.
+      • Implementé y documenté procedimientos estandarizados de mantenimiento, creando registros
+        estructurados que facilitaron el análisis predictivo y la toma de decisiones estratégicas.
+      • Transformé y visualicé información técnica en reportes claros y accionables.
+
+  - role: "Transportista Independiente / Acarreos y Carga"
+    time: "2017 - 2024"
+    company: "Independiente"
+    details: |
+      Me desempeñé en el transporte de carga y acarreos por cuenta propia, organizando rutas, asegurando entregas
+      puntuales y manteniendo comunicación directa con clientes. También realicé mantenimiento básico de
+      vehículos para garantizar la continuidad de las operaciones.
+
+      - Coordinación y ejecución de traslados de carga de manera confiable y segura.
+      - Atención personalizada a clientes, fortaleciendo relaciones de confianza.
+      - Mantenimiento preventivo de vehículos.
+
+projects:
+  intro: >
+    Aquí encontrarás algunos de los proyectos que he desarrollado durante mi
+    formación en 4Geeks Academy. Cada uno refleja mi aprendizaje en
+    programación, diseño y desarrollo web, aplicando buenas prácticas y
+    tecnologías modernas.
+
+  assignments:
+    - title: "ILPD (Indian Liver Patient Dataset)"
+      project_logo: "https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg"
+      link: "https://github.com/johnfbeltranc/projecto_final_clasificacion_ILPD"
+      tagline: "Predicción de enfermedades hepáticas con Machine Learning."
+
+    - title: "Clasificador de Imágenes: Perros vs Gatos"
+      project_logo: "https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg"
+      link: "https://github.com/johnfbeltranc/Clasificador_de_imagenes_Perros_y_Gatos/blob/main/notebooks/clasificador_de_imagenes.ipynb"
+      tagline: "Modelo práctico de clasificación de imágenes aplicado a visión computacional."
+
+    - title: "ALTERNATIVE_TIME_SERIES"
+      project_logo: "https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg"
+      link: "https://github.com/johnfbeltranc/Alternative_time_series_project.2/blob/main/notebooks/alternative_time_series.ipynb"
+      tagline: "Predicción de demanda futura mediante análisis de series temporales."
+
+skills:
+  toolset:
+    - name: "Python"
+      level: "70%"
+    - name: "GitHub"
+      level: "90%"
+    - name: "Codespaces"
+      level: "90%"
+    - name: "R"
+      level: "80%"
