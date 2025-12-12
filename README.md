@@ -12,7 +12,7 @@ Científico de Datos en formación con experiencia resolviendo problemas reales 
 ## 📬 Contacto
 - **Email:** beltranjhon463@gmail.com  
 - **Teléfono:** +57 321 241 8910  
-- **LinkedIn:** [in/jhon-beltran-006ab3397](https://www.linkedin.com/in/jhon-beltran-006ab3397/)  
+- **LinkedIn:** [in/jhon-beltran-006ab3397](https://www.linkedin.com/in/jhon-fredy-beltran-/)  
 - **GitHub:** [johnfbeltranc](https://github.com/johnfbeltranc)
 
 ---
